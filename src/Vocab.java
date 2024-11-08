@@ -1,12 +1,4 @@
 /**
- * <p>Name and ID: Eilya Nasertorabi - 40183363</p>
- * <p>Course: COMP249</p>
- * <p>Assignment #: 3</p>
- * <p>Due Date: April 15th</p>
- * 
- */
-
-/**
  * Represents a vocabulary topic containing a list of words as a singly linked
  * list.
  */
