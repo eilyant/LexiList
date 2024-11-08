@@ -23,11 +23,11 @@ LexiList is a Java-based vocabulary management system that leverages singly and 
 
 # How It Works
 
-# Data Input
+Data Input
 
 The vocabulary data is read from a structured file (A3_input_file.txt). Each line of the file represents a word, organized under categories like “Clothes and Accessories,” “Communications and Technology,” and so on. This file allows easy setup and customization of vocabulary.
 
-# List Operations
+List Operations
 
 	•	Adding Words: Dynamically add new words to the singly or doubly linked list.
 	•	Removing Words: Remove specific words as needed.
@@ -43,7 +43,7 @@ word2
 word3
 ...
 '''
-# For example:
+ For example:
 '''
 #Clothes and Accessories
 backpack
@@ -60,7 +60,7 @@ Upon running the program, LexiList will load vocabulary from A3_input_file.txt, 
 
 # Future Improvements
 
-# Potential areas for future enhancement:
+ Potential areas for future enhancement:
 	•	Graphical Interface: Add a GUI for better user interaction.
 	•	Additional Data Structures: Incorporate other data structures like hash maps for faster lookups.
 	•	Synonym Grouping: Group similar words for a richer vocabulary learning experience.
