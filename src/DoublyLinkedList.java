@@ -1,13 +1,3 @@
-
-/**
- * <p>Name and ID: Eilya Nasertorabi - 40183363</p>
- * <p>Course: COMP249</p>
- * <p>Assignment #: 3</p>
- * <p>Due Date: April 15th</p>
- *  <p>A class representing a doubly linked list specifically tailored for managing vocab topics.</p>
-
- */
-
 import java.io.*;
 import java.util.ArrayList;
 
