@@ -7,8 +7,8 @@ Features
 
 	1.	Vocabulary Categories: Organize words into categories like “Clothes,” “Education,” “Technology,” etc.
 	2.	Linked List Implementation:
-	•	Singly Linked List: Ideal for basic list operations where sequential access is sufficient.
-	•	Doubly Linked List: Provides bidirectional traversal, enhancing flexibility for complex list operations.
+		•	Singly Linked List: Ideal for basic list operations where sequential access is sufficient.
+		•	Doubly Linked List: Provides bidirectional traversal, enhancing flexibility for complex list operations.
 	3.	Efficient List Management: Add, remove, and search words quickly, thanks to the linked list structures.
 	4.	File-Based Input: Reads vocabulary data from a text file (A3_input_file.txt), supporting easy data setup and management.
 
